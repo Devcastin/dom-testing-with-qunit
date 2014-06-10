@@ -1,0 +1,26 @@
+{
+  "name": "qunit-devcastin-tutorial",
+  "version": "0.0.0",
+  "description": "",
+  "main": "accordion.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Devcastin/dom-testing-with-qunit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devcastin/dom-testing-with-qunit/issues"
+  },
+  "homepage": "https://github.com/Devcastin/dom-testing-with-qunit",
+  "devDependencies": {
+    "gulp": "^3.8.0",
+    "gulp-qunit": "^0.3.3"
+  }
+}
